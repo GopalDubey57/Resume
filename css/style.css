@@ -1,0 +1,59 @@
+body{
+    background-color: #FFF0F5;
+}
+
+#listing{
+  background-color: #FFF0F5;
+}
+.navbar-toggler{
+  margin-right:20px;
+}
+.nav-item{
+  margin-left: 15px;
+}
+#introduction{
+  background-color: #FFF0F5;
+  text-align: center;
+}
+.intro{
+  background-color: #FFF0F5;
+
+  padding: 20px 0 100px;
+}
+.intro-image{
+  padding:40px 0 0;
+}
+.profile-picture{
+  border-radius: 50%;
+}
+#performance{
+  background-color: #FFF0F5;
+
+}
+.GPA{
+  padding:0 100px 50px;
+}
+#skills{
+  background-color: #B6FFCE;
+  text-align: center;
+  padding-top: 50px;
+}
+.skill-image{
+  height: 150px;
+  width: 150px;
+  margin-bottom: 20px;
+}
+.skill-text{
+  font-family: Merriweather ,sans-serif;
+}
+.social-icon{
+  color: black;
+  margin:40px 20px;
+}
+/* .icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+} */
+.social-icon:hover {
+  color: #ff4c68;
+}
